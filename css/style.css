@@ -1,0 +1,29 @@
+section{
+    padding: 50px 0;
+}
+
+.navbar{
+    background: #664a60;
+}
+.active{
+    font-size: 15px;
+}
+.text_nav{
+    font-size: 14px;
+}
+
+.mtch_admin{
+    font-size: 14px;
+}
+.creatBtn{
+    background: #0a918b;
+}
+.discuss{
+    font-size: 30px;
+}
+.discussRental{
+    font-size: 25px;
+}
+.Accounting{
+    font-size: 18px;
+}
